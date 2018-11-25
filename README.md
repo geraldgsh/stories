@@ -62,6 +62,8 @@ $ cd my-new-project
 
 After that, you should be ready to roll! Use any of the Rails commands (like `rails s`). 
 
+Visit web page: https://ggoh-stories.herokuapp.com
+
 ## License
 
 Open & free to use
